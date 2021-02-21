@@ -7,6 +7,8 @@ O projeto é composto pelos arquivos encontrados na pasta `/src`:
 - Room
 - UDPServer
 
+### O projeto foi desenvolvido usando a JDK 15 e pode ocorrer problemas caso use uma versão mais baixa
+
 Para executar o projeto é necessário compilar todos os arquivos encontardos na pasta `/src`:
 - `javac nomeDoArquivo`
 
