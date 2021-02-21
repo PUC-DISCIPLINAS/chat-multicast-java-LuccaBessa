@@ -1,4 +1,4 @@
-# Chat Multicast -LDAMD
+# Chat Multicast - LDAMD
  
 ### Chat desvolvido por Lucca Bessa para a disciplina de Laboratório de Desenvolvimento de Aplicações Móveis e Distribuídas
 
